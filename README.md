@@ -1,5 +1,5 @@
 # Greenhouse-IOT-Pigeon-Handler
-A prototype for a water "gun" that aims to scare unwanted pigeons from the rooftop of Kumpula Kampus. 
+A prototype for a water "gun" that aims to scare unwanted pigeons from the rooftop of Kumpula Kampus.
 
 ## Demo
 [![Demo Day](http://img.youtube.com/vi/CeeMaYWMaoA/0.jpg)](http://www.youtube.com/watch?v=CeeMaYWMaoA "Demo Day")
